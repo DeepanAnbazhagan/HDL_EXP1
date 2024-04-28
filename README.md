@@ -1,4 +1,4 @@
-# HDL_EXP1
+# HDL_EXP2
 # Multiplexer4to1
 # Aim
 To simulate and synthesis Multiplexer 4 to 1 using Vivado software.
